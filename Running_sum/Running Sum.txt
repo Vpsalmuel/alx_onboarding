@@ -1,0 +1,9 @@
+This algorithm calculates running sum
+
+1. Enter three numbers n1, n2, n3
+2. If all numbers are positive then
+3. Input = (n1,n2,n3)
+4. Add running sum =(n1, n2+n1, n3+n2+n1)
+5. If n is negative then stop sum 
+6. Output = Print (running sum)
+7.Return: Output

@@ -1,0 +1,5 @@
+sorted order numbers
+
+Assign number to an empty array. E.g  (let num = [])
+Get the value of n1, n2 and n3 e.g. one = float (input("Please input a number: "))
+Loop through num with sorted function e.g for num in sorted(nums): print (num)
